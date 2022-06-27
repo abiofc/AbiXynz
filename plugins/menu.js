@@ -133,7 +133,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 ╰──────────━⃝┅⃝━────────┘`*/
 
  /* if (teks == '404') {
-  	conn.sendHydrated(m.chat, textt, '                「 Ƙαnnα BOT あ⁩ 」', global.fla + 'LIST MENU', 'https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT', 'OFFICIAL GROUP', '62831433937633', 'OWNER', [
+  	conn.sendHydrated(m.chat, textt, '                「 YUKINO BOT あ⁩ 」', global.fla + 'LIST MENU', 'https://chat.whatsapp.com/ERrRJ18SMI20NZbYvq7E3w', 'OFFICIAL GROUP', '6288232154376', 'OWNER', [
       [null,null],
       [null, null],
       [null, null]
